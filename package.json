@@ -8,13 +8,13 @@
     "eslint",
     "config"
   ],
-  "homepage": "https://github.com/googlemaps/js-eslint-config-googlemaps",
+  "homepage": "https://github.com/googlemaps/eslint-config-googlemaps",
   "bugs": {
-    "url": "https://github.com/googlemaps/js-eslint-config-googlemaps/issues"
+    "url": "https://github.com/googlemaps/eslint-config-googlemaps/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/googlemaps/js-eslint-config-googlemaps.git"
+    "url": "https://github.com/googlemaps/eslint-config-googlemaps.git"
   },
   "license": "Apache-2.0",
   "author": "Justin Poehnelt",
