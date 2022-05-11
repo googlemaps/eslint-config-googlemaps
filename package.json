@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-googlemaps",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Shared eslint config for Google Maps using Google TypeScript Style (GTS).",
   "keywords": [
     "google",
